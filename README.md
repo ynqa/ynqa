@@ -3,9 +3,4 @@
 [![speakerdeck](https://img.shields.io/badge/Speaker_Deck-ynqa-009287?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/ynqa)
 [![twitter](https://img.shields.io/badge/twitter-__ynqa-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/_ynqa)
 
-<a href="https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=algolia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=algolia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynqa&theme=algolia" />
-</a>
+![github-stats](https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=algolia&count_private=true&hide_title=true)

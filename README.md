@@ -3,18 +3,42 @@
 [![speakerdeck](https://img.shields.io/badge/Speaker_Deck-ynqa-009287?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/ynqa)
 [![twitter](https://img.shields.io/badge/X-__ynqa-000000?style=flat-square&logo=X)](https://x.com/_ynqa)
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=calm&count_private=true&hide_title=true&hide_border=true)
+![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynqa&theme=darcula)
 
-## My OSS Development
+## OSS Development
 
-[![ynqa/jnv](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=jnv&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/jnv)
-[![ynqa/sig](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=sig&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/sig)
-[![ynqa/logu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=logu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/logu)
-[![ynqa/empiriqa](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=empiriqa&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/empiriqa)
-[![ynqa/kuqu](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=kuqu&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/kuqu)
+### CLIs
 
-[![ynqa/promkit](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=promkit&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/promkit)
-[![ynqa/j9](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=j9&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/j9)
+- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using `jq`
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/jnv.svg)
+- [ynqa/sig](https://github.com/ynqa/sig): Interactive grep (for streaming)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/sig.svg)
+- [ynqa/logu](https://github.com/ynqa/logu): Extract patterns from unstructured log messages
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/logu.svg)
+- [ynqa/empiriqa](https://github.com/ynqa/empiriqa): Laboratory for pipeline construction with feedback
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/empiriqa.svg)
+- [ynqa/kuqu](https://github.com/ynqa/kuqu): SQL for Kubernetes resources
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/kuqu.svg)
+- [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
+![Go](https://img.shields.io/badge/Go-white?logo=go)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/wego.svg)
+- [ynqa/grfnctl](https://github.com/ynqa/grfnctl):  CLI for Grafana API
+![Go](https://img.shields.io/badge/Go-white?logo=go)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/grfnctl.svg)
 
-[![ynqa/wego](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=wego&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/wego)
-[![ynqa/pandavro](https://github-readme-stats.vercel.app/api/pin/?username=ynqa&repo=pandavro&show_owner=true&theme=dracula&hide_border=true)](https://github.com/ynqa/pandavro)
+### Libraries
+
+- [ynqa/promkit](https://github.com/ynqa/promkit): Make interactive prompt in Rust
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/promkit.svg)
+- [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/j9.svg)
+- [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
+![Python](https://img.shields.io/badge/Python-white?logo=python&co)
+![GitHub stars](https://img.shields.io/github/stars/ynqa/pandavro.svg)

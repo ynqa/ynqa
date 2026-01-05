@@ -3,7 +3,7 @@
 [![speakerdeck](https://img.shields.io/badge/Speaker_Deck-ynqa-009287?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/ynqa)
 [![twitter](https://img.shields.io/badge/X-__ynqa-000000?style=flat-square&logo=X)](https://x.com/_ynqa)
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=ynqa&show_icons=true&theme=calm&count_private=true&hide_title=true&hide_border=true)
+![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynqa&theme=darcula)
 
 ## OSS Development
 

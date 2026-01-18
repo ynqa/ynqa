@@ -5,6 +5,10 @@
 
 ![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynqa&theme=darcula)
 
+## Products
+
+- [bricolaje.dev](https://bricolaje.dev): An AI app for assisting terminal operations (macOS)
+
 ## OSS Development
 
 ### CLIs

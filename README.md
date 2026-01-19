@@ -7,7 +7,7 @@
 
 ## Products
 
-- [bricolaje.dev](https://bricolaje.dev): An AI app for assisting terminal operations (macOS)
+- [Bricolaje](https://bricolaje.dev): An AI app for assisting terminal operations (macOS)
 [![GitHub](https://img.shields.io/badge/repo-bricolaje--app-blue?logo=github)](https://github.com/bricolaje-app/bricolaje)
 
 ## OSS Development

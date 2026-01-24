@@ -5,11 +5,6 @@
 
 ![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynqa&theme=darcula)
 
-## Products
-
-- [Bricolaje](https://bricolaje.dev): An AI app for assisting terminal operations (macOS)
-[![GitHub](https://img.shields.io/badge/repo-bricolaje--app-blue?logo=github)](https://github.com/bricolaje-app/bricolaje)
-
 ## OSS Development
 
 ### CLIs
@@ -47,3 +42,8 @@
 - [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
 ![Python](https://img.shields.io/badge/Python-white?logo=python&co)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/pandavro.svg)
+
+## Portfolio
+
+- [Bricolaje](https://bricolaje.dev): An AI app for assisting terminal operations (macOS)
+[![GitHub](https://img.shields.io/badge/repo-bricolaje--app-blue?logo=github)](https://github.com/bricolaje-app/bricolaje)

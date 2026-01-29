@@ -9,38 +9,40 @@
 
 ### CLIs
 
-- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using `jq`
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+
+- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using `jq`
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/jnv.svg)
 - [ynqa/sig](https://github.com/ynqa/sig): Interactive grep (for streaming)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/sig.svg)
 - [ynqa/logu](https://github.com/ynqa/logu): Extract patterns from unstructured log messages
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/logu.svg)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa): Laboratory for pipeline construction with feedback
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/empiriqa.svg)
 - [ynqa/kuqu](https://github.com/ynqa/kuqu): SQL for Kubernetes resources
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/kuqu.svg)
-- [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
+- [ynqa/nosy](https://github.com/ynqa/nosy): CLI to summarize various types of content by LLM
+![GitHub stars](https://img.shields.io/github/stars/ynqa/nosy.svg)
+
 ![Go](https://img.shields.io/badge/Go-white?logo=go)
+
+- [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/wego.svg)
 - [ynqa/grfnctl](https://github.com/ynqa/grfnctl):  CLI for Grafana API
-![Go](https://img.shields.io/badge/Go-white?logo=go)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/grfnctl.svg)
 
 ### Libraries
 
-- [ynqa/promkit](https://github.com/ynqa/promkit): Make interactive prompt in Rust
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+
+- [ynqa/promkit](https://github.com/ynqa/promkit): Make interactive prompt in Rust
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/promkit.svg)
 - [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/j9.svg)
-- [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
+
 ![Python](https://img.shields.io/badge/Python-white?logo=python&co)
+
+- [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/pandavro.svg)
 
 ## Portfolio

@@ -26,8 +26,6 @@
 
 ![Go](https://img.shields.io/badge/Go-white?logo=go)
 
-- [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
-![GitHub stars](https://img.shields.io/github/stars/ynqa/wego.svg)
 - [ynqa/grfnctl](https://github.com/ynqa/grfnctl):  CLI for Grafana API
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/grfnctl.svg)
 
@@ -39,6 +37,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/promkit.svg)
 - [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/j9.svg)
+
+![Go](https://img.shields.io/badge/Go-white?logo=go)
+
+- [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
+![GitHub stars](https://img.shields.io/github/stars/ynqa/wego.svg)
 
 ![Python](https://img.shields.io/badge/Python-white?logo=python&co)
 

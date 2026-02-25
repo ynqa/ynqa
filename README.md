@@ -37,6 +37,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/promkit.svg)
 - [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/j9.svg)
+- [ynqa/termcfg](https://github.com/ynqa/termcfg): Terminal shortcut and style configurations
+![GitHub stars](https://img.shields.io/github/stars/ynqa/termcfg.svg)
 
 ![Go](https://img.shields.io/badge/Go-white?logo=go)
 

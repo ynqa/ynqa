@@ -21,13 +21,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/empiriqa.svg)
 - [ynqa/kuqu](https://github.com/ynqa/kuqu): SQL for Kubernetes resources
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/kuqu.svg)
-- [ynqa/nosy](https://github.com/ynqa/nosy): CLI to summarize various types of content by LLM
-![GitHub stars](https://img.shields.io/github/stars/ynqa/nosy.svg)
-
-![Go](https://img.shields.io/badge/Go-white?logo=go)
-
-- [ynqa/grfnctl](https://github.com/ynqa/grfnctl):  CLI for Grafana API
-![GitHub stars](https://img.shields.io/github/stars/ynqa/grfnctl.svg)
 
 ### Libraries
 
@@ -37,8 +30,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/promkit.svg)
 - [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
 ![GitHub stars](https://img.shields.io/github/stars/ynqa/j9.svg)
-- [ynqa/termcfg](https://github.com/ynqa/termcfg): Terminal shortcut and style configurations
-![GitHub stars](https://img.shields.io/github/stars/ynqa/termcfg.svg)
 
 ![Go](https://img.shields.io/badge/Go-white?logo=go)
 

@@ -1,0 +1,39 @@
+name: Update star badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 15 * * *"
+
+permissions:
+  contents: write
+
+env:
+  STAR_BADGE_REPOS: jnv sig logu empiriqa kuqu promkit j9 kubernetes-rust wego pandavro
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download star badges
+        run: |
+          set -eu
+          tmpdir="$(mktemp -d)"
+          for repo in $STAR_BADGE_REPOS; do
+            curl -fsSL "https://badgen.net/github/stars/ynqa/${repo}?color=e0b43c&labelColor=black&icon=github&cacheControl=3600" \
+              -o "$tmpdir/${repo}-stars.svg"
+            grep -q 'aria-label="stars:' "$tmpdir/${repo}-stars.svg"
+          done
+          mkdir -p assets/badges
+          cp "$tmpdir"/*-stars.svg assets/badges/
+      - name: Commit badge updates
+        run: |
+          if git diff --quiet -- assets/badges; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/badges
+          git commit -m "Update star badges"
+          git push

@@ -12,33 +12,33 @@
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 
 - [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using `jq`
-![GitHub stars](https://badgen.net/github/stars/ynqa/jnv?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/jnv-stars.svg)
 - [ynqa/sig](https://github.com/ynqa/sig): Interactive grep (for streaming)
-![GitHub stars](https://badgen.net/github/stars/ynqa/sig?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/sig-stars.svg)
 - [ynqa/logu](https://github.com/ynqa/logu): Extract patterns from unstructured log messages
-![GitHub stars](https://badgen.net/github/stars/ynqa/logu?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/logu-stars.svg)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa): Laboratory for pipeline construction with feedback
-![GitHub stars](https://badgen.net/github/stars/ynqa/empiriqa?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/empiriqa-stars.svg)
 - [ynqa/kuqu](https://github.com/ynqa/kuqu): SQL for Kubernetes resources
-![GitHub stars](https://badgen.net/github/stars/ynqa/kuqu?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/kuqu-stars.svg)
 
 ### Libraries
 
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
 
 - [ynqa/promkit](https://github.com/ynqa/promkit): Make interactive prompt in Rust
-![GitHub stars](https://badgen.net/github/stars/ynqa/promkit?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/promkit-stars.svg)
 - [ynqa/j9](https://github.com/ynqa/j9): Rust bindings for \*jq\*
-![GitHub stars](https://badgen.net/github/stars/ynqa/j9?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/j9-stars.svg)
 - [ynqa/kubernetes-rust](https://github.com/ynqa/kubernetes-rust): Rust client for Kubernetes
-![GitHub stars](https://badgen.net/github/stars/ynqa/kubernetes-rust?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/kubernetes-rust-stars.svg)
 
 ![Go](https://img.shields.io/badge/Go-white?logo=go)
 
 - [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
-![GitHub stars](https://badgen.net/github/stars/ynqa/wego?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/wego-stars.svg)
 
 ![Python](https://img.shields.io/badge/Python-white?logo=python&co)
 
 - [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
-![GitHub stars](https://badgen.net/github/stars/ynqa/pandavro?color=e0b43c&labelColor=black&icon=github&cacheControl=3600)
+![GitHub stars](assets/badges/pandavro-stars.svg)

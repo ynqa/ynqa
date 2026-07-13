@@ -38,7 +38,12 @@
 - [ynqa/wego](https://github.com/ynqa/wego): Word Embeddings in Go!
 ![GitHub stars](assets/badges/wego-stars.svg)
 
-![Python](https://img.shields.io/badge/Python-white?logo=python&co)
+![Python](https://img.shields.io/badge/Python-white?logo=python)
 
 - [ynqa/pandavro](https://github.com/ynqa/pandavro): Apache Avro <-> pandas DataFrame
 ![GitHub stars](assets/badges/pandavro-stars.svg)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript)
+
+- [ynqa/lanterm](https://github.com/ynqa/lanterm): Toolkit for building PTY-backed terminal experiences in the browser
+![GitHub stars](assets/badges/lanterm-stars.svg)

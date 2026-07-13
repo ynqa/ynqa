@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  STAR_BADGE_REPOS: jnv sig logu empiriqa kuqu promkit j9 kubernetes-rust wego pandavro
+  STAR_BADGE_REPOS: jnv sig logu empiriqa kuqu lanterm promkit j9 kubernetes-rust wego pandavro
 
 jobs:
   update:

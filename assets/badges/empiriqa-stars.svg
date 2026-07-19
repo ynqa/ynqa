@@ -1,14 +1,14 @@
 <svg width="84" height="20" viewBox="0 0 840 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="stars: 120">
   <title>stars: 120</title>
-  <linearGradient id="RZcLf" x2="0" y2="100%">
+  <linearGradient id="Rckmi" x2="0" y2="100%">
     <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <mask id="EexjZ"><rect width="840" height="200" rx="30" fill="#FFF"/></mask>
-  <g mask="url(#EexjZ)">
+  <mask id="qfgTD"><rect width="840" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#qfgTD)">
     <rect width="530" height="200" fill="#2A2A2A"/>
     <rect width="310" height="200" fill="#e0b43c" x="530"/>
-    <rect width="840" height="200" fill="url(#RZcLf)"/>
+    <rect width="840" height="200" fill="url(#Rckmi)"/>
   </g>
   <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
     <text x="220" y="148" textLength="270" fill="#000" opacity="0.25">stars</text>

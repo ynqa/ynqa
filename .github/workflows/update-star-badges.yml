@@ -1,4 +1,4 @@
-name: Update star badges
+name: Update profile assets
 
 on:
   workflow_dispatch:
@@ -27,13 +27,24 @@ jobs:
           done
           mkdir -p assets/badges
           cp "$tmpdir"/*-stars.svg assets/badges/
-      - name: Commit badge updates
+      - name: Download GitHub stats
         run: |
-          if git diff --quiet -- assets/badges; then
+          set -eu
+          stats_file="$(mktemp)"
+          trap 'rm -f "$stats_file"' EXIT
+          curl -fsSL --retry 3 --max-time 60 \
+            "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynqa&theme=darcula" \
+            -o "$stats_file"
+          grep -q '<svg ' "$stats_file"
+          grep -q '>Total Commits:</text>' "$stats_file"
+          cp "$stats_file" assets/github-stats.svg
+      - name: Commit profile asset updates
+        run: |
+          git add assets/badges assets/github-stats.svg
+          if git diff --cached --quiet -- assets/badges assets/github-stats.svg; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/badges
-          git commit -m "Update star badges"
+          git commit -m "Update profile assets"
           git push

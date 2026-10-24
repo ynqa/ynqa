@@ -9,7 +9,34 @@ permissions:
   contents: write
 
 env:
-  STAR_BADGE_REPOS: jnv sig logu empiriqa kuqu vy nosy hstr-rs grfnctl convey envoy-lb-simulator maqi wego promkit kubernetes-rust pandavro j9 fuzzy-search jsoniterx lanterm termcfg termharness kubex claude-convey helmingway faiss-server tf_serving_exporter
+  STAR_BADGE_REPOS: >-
+    jnv
+    sig
+    logu
+    empiriqa
+    kuqu
+    vy
+    nosy
+    hstr-rs
+    grfnctl
+    convey
+    envoy-lb-simulator
+    maqi
+    wego
+    promkit
+    kubernetes-rust
+    pandavro
+    j9
+    fuzzy-search
+    jsoniterx
+    lanterm
+    termcfg
+    termharness
+    kubex
+    claude-convey
+    helmingway
+    faiss-server
+    tf_serving_exporter
 
 jobs:
   update:

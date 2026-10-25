@@ -18,25 +18,13 @@ env:
     vy
     nosy
     hstr-rs
-    grfnctl
-    convey
-    envoy-lb-simulator
-    maqi
     wego
     promkit
     kubernetes-rust
     pandavro
     j9
     fuzzy-search
-    jsoniterx
-    lanterm
-    termcfg
-    termharness
-    kubex
-    claude-convey
-    helmingway
     faiss-server
-    tf_serving_exporter
 
 jobs:
   update:
